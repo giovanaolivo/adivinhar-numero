@@ -1,6 +1,6 @@
 #  🎯 Adivinhar Número
 
-**Descrição**  
+**Descrição:**  
 Jogo simples desenvolvido em JavaScript para treinar lógica e manipulação de DOM: o usuário tenta adivinhar um número aleatório gerado pelo programa.
 
 ---
